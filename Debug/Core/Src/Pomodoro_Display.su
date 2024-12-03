@@ -1,0 +1,14 @@
+Pomodoro_Display.c:27:6:PomodoroDisplay_SetUpdate	4	static
+Pomodoro_Display.c:33:6:PomodoroDisplay_SetToggleUpdate	4	static
+Pomodoro_Display.c:41:7:PomodoroDisplayUpdate	4	static
+Pomodoro_Display.c:51:7:PomodoroDisplayToggleUpdate	4	static
+Pomodoro_Display.c:65:6:PomodoroDisplayToggleButtonInit	16	static
+Pomodoro_Display.c:81:6:PomodoroDisplaySwitchOffToggle	24	static
+Pomodoro_Display.c:88:6:PomodoroDisplayToggle	24	static
+Pomodoro_Display.c:113:6:PomodoroDisplayChooseConfiguration	16	static
+Pomodoro_Display.c:120:6:PomodoroDisplayOwnSetting	32	static
+Pomodoro_Display.c:130:6:PomodoroDisplayPresentSetup	24	static
+Pomodoro_Display.c:151:6:PomodoroDisplayStateOfWork	32	static
+Pomodoro_Display.c:187:6:PomodoroDisplayPause	16	static
+Pomodoro_Display.c:195:6:PomodoroDisplayFinish	16	static
+Pomodoro_Display.c:202:6:PomodoroDisplayClearDisplay	8	static
