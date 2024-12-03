@@ -1,8 +1,0 @@
-Encoder.c:22:6:EncoderInit	16	static
-Encoder.c:32:6:EncoderTask	16	static
-Encoder.c:85:6:EncoderSetValue	16	static
-Encoder.c:94:7:EncoderHasChange	4	static
-Encoder.c:105:6:EncoderSetPosition	16	static
-Encoder.c:110:9:EncoderReadPosition	4	static
-Encoder.c:119:6:EncoderSetWorking	16	static
-Encoder.c:127:7:EncoderIsWorking	4	static
