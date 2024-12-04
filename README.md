@@ -16,5 +16,4 @@ This project is useful when you would like to focus on your work by Pomodoro rul
 Block diagram inside the folder
 https://github.com/200098/Pomodoro_Nucleo/blob/main/Diagram.drawio.png
 
-and present below
 ![alt text](https://github.com/200098/Pomodoro_Nucleo/blob/main/Diagram.drawio.png "Diagram ")
