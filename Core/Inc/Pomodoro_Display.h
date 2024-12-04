@@ -1,7 +1,10 @@
 /*
  * PomodoroDisplay.h
  *
+ *  The MIT License.
+ *  Created on: 2.12.2024
  *      Author: Szymon Frydrych
+ *      szfrydrych@gmail.com
  */
 
 #ifndef INC_POMODORO_DISPLAY_H_

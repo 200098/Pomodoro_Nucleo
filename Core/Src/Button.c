@@ -1,7 +1,10 @@
 /*
  * Button.c
  *
+ *  The MIT License.
+ *  Created on: 2.12.2024
  *      Author: Szymon Frydrych
+ *      szfrydrych@gmail.com
  */
 #include "main.h"
 #include "stdbool.h"

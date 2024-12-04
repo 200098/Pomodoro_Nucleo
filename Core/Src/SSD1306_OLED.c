@@ -1,10 +1,10 @@
 /*
  * SSD1306_OLED.c
  *
+ *  Created on: Oct 29, 2020
  *      Author: Mateusz Salamon
- *      www.msalamon.pl
- *      mateusz@msalamon.pl
  */
+
 
 
 #include "main.h"

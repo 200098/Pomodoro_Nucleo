@@ -1,10 +1,10 @@
 /*
  * SSD1306_OLED.h
  *
+ *  Created on: Oct 29, 2020
  *      Author: Mateusz Salamon
- *      www.msalamon.pl
- *      mateusz@msalamon.pl
  */
+
 
 #ifndef INC_SSD1306_OLED_H_
 #define INC_SSD1306_OLED_H_
